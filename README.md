@@ -18,6 +18,3 @@
 |   2.  |  Convolutional Neural Networks   | This covers the basics of CNN along with some basic projects.|    Completed          |
 |   3.  |  Recurrent Neural Networks       | This covers the basics of RNN along with time series prediciton project. |  Completed|
 |   4.  |Tensorflow Abstractions & Tensorboard|This covers various TF Abstractions like Keras, estimator etc. with Tensorboard.| Completed|
-|   5.  |         AutoEncoders             | This covers the basics of AutoEncoders.                  |         Completed     |
-|   6.  |        Reinforcement Learning    | This covers basics of Reinforcement Learning using OpenAI Gym. |   Completed     |
-|   7.  | Generative Adversarial Networks  | This covers the GAN's for MNIST digit generation.        |       Completed       |
